@@ -118,7 +118,7 @@
       pattern="[0-9]{6}" required>
                                                     
                                                 </div>
-                                                <center><h6 style="color: brown;(0, 0, 0);">Invalid OTP*</h6></center>
+                                                <center><h6 style="color: brown;(0, 0, 0);">Time Expired*</h6></center>
                             
                                          <!-- <a href="#">Forgot Customer ID</a> -->
                                               <div>
